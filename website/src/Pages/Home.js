@@ -6,6 +6,9 @@ function Home() {
         {/* <NavBar />
         <Photo/> */}
         <Bio/>
+        <p>
+            This is below the image!
+        </p>
     </>
     
 
