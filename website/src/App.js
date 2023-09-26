@@ -3,10 +3,12 @@ import Home from './Pages/Home'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">\
+      <p>
+        Hello Friends!
+      </p>
       <Home/>
     </div>
   );
 }
-
-export default App;
+export default App();
