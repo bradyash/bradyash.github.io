@@ -1,0 +1,10 @@
+.nav-container {
+    text-align: center;
+    display: inline;
+}
+.nav-container > ul{
+    list-style-type: none;
+}
+.nav-container > li {
+    display: inline;
+}

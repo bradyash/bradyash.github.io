@@ -1,5 +1,5 @@
 import pic from './Ross_Peak_Walking.jpg'
-function Bio() {
+const Bio = () => {
     return (
       <div className="Bio">
           <img src={pic} className="background-pic" alt="Brady Ash walking on Ross Peak" />
