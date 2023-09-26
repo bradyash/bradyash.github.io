@@ -1,4 +1,4 @@
-import pic from '../../public/Ross_Peak_Walking.jpeg'
+import pic from './Ross_Peak_Walking.jpg'
 function Bio() {
     return (
       <div className="Bio">
