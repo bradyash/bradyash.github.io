@@ -1,10 +1,30 @@
+* {
+    margin: auto;
+}
+body {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#nav {
+    margin: auto;
+    width: 50%;
+}
 .nav-container {
+    padding: 0;
     text-align: center;
-    display: inline;
 }
-.nav-container > ul{
+li {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
 }
-.nav-container > li {
-    display: inline;
+#bio {
+    border-radius: 20px;
+    border-color: red;
+    border-width: 3px;
+    border-style: solid;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
 }
